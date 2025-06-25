@@ -17,12 +17,8 @@ The dataset consists of 10 variables:
 
 
 ### Python Libraries
-pandas, numpy, seaborn, matplotlib, tabulate, sklearn
-
-Random Forest and Naive Bayes were used to identify online payment fraud due to the large dataset.
-
-![image](https://user-images.githubusercontent.com/118715799/210950017-e4d317e0-6bf4-4ecd-8313-9b8121e04e9f.png)
+pandas, numpy, plotly
 
 Read the complete Online Payment Fraud Detection project 
 ## Conclusion
-The best performing model is **Random Forest** for identifying fraudulent and non-fraudulent payments.
+The best performing model is **Decision Tree** for identifying fraudulent and non-fraudulent payments.
